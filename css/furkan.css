@@ -1,0 +1,35 @@
+h1 {
+  font-size: 2.5em;
+  color: red;
+  text-transform: uppercase;
+  background: -webkit-linear-gradient(red, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-size: 1.5em;
+  color: yellow;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: monospace;
+}
+
+th {
+  color: blueviolet;
+  font-size: 2em;
+}
+
+table {
+  width: 100%;
+  background-color: darkblue;
+}
+
+input {
+  font-size: medium;
+  color: darkcyan;
+}
+/*# sourceMappingURL=furkan.css.map */
